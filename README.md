@@ -4,4 +4,9 @@ Rejoindre DeepReach, c'est participer à ce moment fascinant de la vie d'une sta
 
 DeepReach c'est deux pôles de développement, l'un à Paris, l'autre à Chambéry, en très forte coopération. 
 
-Les jobs tech en cours chez DeepReach. 
+---
+
+## Les jobs tech en cours chez DeepReach. 
+
+### A Paris
+* [[Dev Backend]] Nodejs/Dynamodb/Postgres/Serverless/AWS
