@@ -28,7 +28,7 @@ On s'adapte, constament. Comme j'ai dit, tout est encore possible, on construira
 
 - Frontend: Python, VueJS, API Rest
 - Backend: Python, Docker, NodeJS, Postgresql, AWS Dynamodb/Lambda/SNS/SQS/API GW/CloudFormation/SAM/...
-- Partout: Github, Jira, Jenkins, Cloud
+- Partout: Github, Jira, Jenkins, AWS
 
 --- 
 
