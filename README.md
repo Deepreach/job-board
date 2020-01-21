@@ -9,4 +9,4 @@ DeepReach c'est deux pôles de développement, l'un à Paris, l'autre à Chambé
 ## Les jobs tech en cours chez DeepReach. 
 
 ### A Paris
-* [[Dev Backend]] Nodejs/Dynamodb/Postgres/Serverless/AWS
+* [Dev Backend] Nodejs/Dynamodb/Postgres/Serverless/AWS
