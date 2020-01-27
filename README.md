@@ -24,7 +24,7 @@ On s'adapte, constament. Comme j'ai dit, tout est encore possible, on construira
 
 ## La stack
 
-- Frontend: Python, VueJS, API Rest
+- Frontend: VueJS, API Rest
 - Backend: Python, Docker, NodeJS, Postgresql, AWS Dynamodb/Lambda/SNS/SQS/API GW/CloudFormation/SAM/...
 - Partout: Github, Jira, Jenkins, AWS
 
@@ -33,4 +33,4 @@ On s'adapte, constament. Comme j'ai dit, tout est encore possible, on construira
 ## Les jobs tech en cours chez DeepReach. 
 
 ### 🏙 A Paris
-* [[Dev-Backend]]() Nodejs/Dynamodb/Postgres/Serverless/AWS
+* [[Dev Backend]] Nodejs/Dynamodb/Postgres/Serverless/AWS
