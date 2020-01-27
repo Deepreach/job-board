@@ -2,8 +2,6 @@
 
 Rejoindre DeepReach, c'est participer à ce moment fascinant de la vie d'une startup où tout est encore possible, où l'on fait aujourd'hui les choix qui vont structurer l'avenir. C'est aussi le moment où chaque nouvel arrivant dans l'équipe est unique et important pour l'avenir. Si tu recherches un job plan-plan, ce n'est pas ici !
 
-DeepReach c'est deux pôles de développement, l'un à Paris, l'autre à Chambéry, en très forte coopération. 
-
 ---
 
 ## Ce à quoi on croit
@@ -35,6 +33,4 @@ On s'adapte, constament. Comme j'ai dit, tout est encore possible, on construira
 ## Les jobs tech en cours chez DeepReach. 
 
 ### 🏙 A Paris
-* [[Dev Backend]] Nodejs/Dynamodb/Postgres/Serverless/AWS
-
-### 🏔 A Chambéry
+* [[Dev-Backend]]() Nodejs/Dynamodb/Postgres/Serverless/AWS
