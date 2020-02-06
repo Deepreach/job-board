@@ -33,7 +33,15 @@ On s'adapte, constament. Comme j'ai dit, tout est encore possible, on construira
 
 Le facteur clé de succès: la proximité avec le business (sales, operations, ...) pour être toujours à l'écoute des besoins, pour créer des solutions qui ont de la valeur pour nos clients.
 
-## L
+## Les petits plus
+
+Des bureaux très agréables sur les Champs Elysées (espaces lumineux, espaces détente et cuisine, bureaux assis/debout, ...)
+
+Un budget alloué pour choisir son équipement librement (mac, pc, pc sous linux, ...)
+
+1 à 2 jours de télétravail chaque semaine.
+
+La possibilité de participer à des conférences tech.
 
 ---
 
@@ -41,7 +49,8 @@ Le facteur clé de succès: la proximité avec le business (sales, operations, .
 
 ### 🏙 A Paris
 
-- [Dev Backend](Dev-Backend.md) Nodejs/Serverless/AWS/Dynamodb/Postgres
+- [Dev Backend (H/F)](Dev-Backend.md) Nodejs/Serverless/AWS/Dynamodb/Postgres
+- [Dev Fullstack (H/F)](Dev-Fullstack.md) Vuejs/Nodejs/Serverless/AWS
 
 ---
 
