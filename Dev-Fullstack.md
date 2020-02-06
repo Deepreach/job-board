@@ -1,45 +1,47 @@
-# Développeur Back-End NodeJS/Serverless/AWS (H/F)
-
-Au sein de notre pôle de développement parisien, il s'agit notamment de gérer l'interconnexion entre DeepReach et les grands médias publicitaires (Google Ads, Facebook, ...).
+# Développeur Fullstack (H/F) Vuejs/Nodejs/Serverless/AWS
 
 **Où**: Paris 8ème, sur les Champs Elysées
 
 ## Missions
 
-Concevoir et développer des composants qui créent et opèrent des campagnes de publicité sur des médias publicitaires digitaux, faire évoluer l'API qui permet à notre front-end de gérer les campagnes.
+Au sein de notre pôle de développement parisien, créer et faire évoluer des environnements permettant à nos clients de gérer leurs campagnes de marketing digital:
+
+- site front
+- système de prise de commandes
+- backend métier
+- reporting
 
 ## Principaux défis
 
-Gérer la complexité et la scalabilité.
+Intégrer différents environnements 'sans couture' pour offrir à nos utilisateurs une expérience optimale.
 
-Prendre en compte les spécificités de chaque média tout en dégageant un modèle commun, capacité de synthèse.
+Rendre simple à utiliser une application qui gère des systèmes complexes.
 
 Un secteur qui évolue constamment et à grande vitesse, écoute et adaptation sont clés.
 
 ## Profil
 
-- Expérience solide (5 ans+) du développement d'environnements back-end, et notamment
+- Expérience solide (5 ans+) du développement d'applications B2B, et notamment
 
-  - architectures serveur et architectures serverless
-  - NodeJS
+  - frameworks SPA (Vuejs) et APIs
   - bases de données relationnelles et NoSQL
-  - développement d'APIs
   - Cloud AWS
+  - bases de données relationelles
 
 - Voir la technologie comme un moyen de résoudre des problèmes et d’être créatif
 - Être passionné par la conception et le développement logiciel
 
 ## Technologies
 
-- NodeJS
+- Javascript
+- VueJS
 - AWS
   - Serverless (Lambda), SAM
-  - CloudFormation
-  -
+- Postgresql
 
 ## Equipe
 
-Petite équipe, sous la supervision du [CTO](https://www.linkedin.com/in/jfpaccini) et en lien constant avec l'équipe operations.
+Petite équipe, sous la supervision du [CTO](https://www.linkedin.com/in/jfpaccini) et en lien constant avec les équipes operations et sales.
 
 ## Les petits plus du poste
 
