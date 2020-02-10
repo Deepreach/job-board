@@ -24,9 +24,8 @@ Un secteur qui évolue constamment et à grande vitesse, écoute et adaptation s
 - Expérience solide (5 ans+) du développement d'applications B2B, et notamment
 
   - frameworks SPA (Vuejs) et APIs
-  - bases de données relationnelles et NoSQL
+  - bases de données relationnelles
   - Cloud AWS
-  - bases de données relationelles
 
 - Voir la technologie comme un moyen de résoudre des problèmes et d’être créatif
 - Être passionné par la conception et le développement logiciel
@@ -34,6 +33,7 @@ Un secteur qui évolue constamment et à grande vitesse, écoute et adaptation s
 ## Technologies
 
 - Javascript
+- Python
 - VueJS
 - AWS
   - Serverless (Lambda), SAM
