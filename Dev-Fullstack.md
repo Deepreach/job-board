@@ -1,4 +1,4 @@
-# Développeur Fullstack (H/F) Vuejs/Nodejs/Serverless/AWS
+# Développeur Fullstack (H/F) Vuejs/Python/Nodejs/Serverless/AWS
 
 **Où**: Paris 8ème, sur les Champs Elysées
 
@@ -24,6 +24,7 @@ Un secteur qui évolue constamment et à grande vitesse, écoute et adaptation s
 - Expérience solide (5 ans+) du développement d'applications B2B, et notamment
 
   - frameworks SPA (Vuejs) et APIs
+  - Python et/ou NodeJS en backend
   - bases de données relationnelles
   - Cloud AWS
 
@@ -34,6 +35,7 @@ Un secteur qui évolue constamment et à grande vitesse, écoute et adaptation s
 
 - Javascript
 - Python
+- NodeJs
 - VueJS
 - AWS
   - Serverless (Lambda), SAM
