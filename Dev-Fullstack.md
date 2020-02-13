@@ -51,3 +51,12 @@ Petite équipe, sous la supervision du [CTO](https://www.linkedin.com/in/jfpacci
 - Travail à distance possible 2 jours par semaine
 
 ## Pour postuler
+
+## Process de recrutement
+
+* entretien téléphonique
+* entretien en nos locaux avec le CTO
+* entretien en nos locaux avec la RH
+* entretien en nos locaux avec le fondateur
+
+Décision rapide
