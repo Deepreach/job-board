@@ -52,6 +52,8 @@ Petite équipe, sous la supervision du [CTO](https://www.linkedin.com/in/jfpacci
 
 ## Pour postuler
 
+Rendez-vous sur notre espace [Welcome to the Jungle](https://www.welcometothejungle.com/fr/companies/deepreach/jobs/developpeur-fullstack-h-f-cdi-vuejs-nodejs-serverless-aws_paris)
+
 ## Process de recrutement
 
 * entretien téléphonique
