@@ -47,3 +47,14 @@ Petite équipe, sous la supervision du [CTO](https://www.linkedin.com/in/jfpacci
 - Travail à distance possible 2 jours par semaine
 
 ## Pour postuler
+
+Sur notre [espace Welcome to the Jungle](https://www.welcometothejungle.com/fr/companies/deepreach/jobs/developpeur-back-end-nodejs-serverless-aws-h-f-cdi_paris)
+
+## Process de recrutement
+
+* entretien téléphonique
+* entretien en nos locaux avec le CTO
+* entretien en nos locaux avec la RH
+* entretien en nos locaux avec le fondateur
+
+Décision rapide
