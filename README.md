@@ -50,7 +50,7 @@ La possibilité de participer à des conférences tech.
 ### 🏙 A Paris
 
 - [Dev Backend (H/F)](Dev-Backend.md) Nodejs/Serverless/AWS/Dynamodb/Postgres
-- [Dev Fullstack (H/F)](Dev-Fullstack.md) Vuejs/Nodejs/Serverless/AWS
+- [Dev Fullstack (H/F)](Dev-Fullstack.md) Vuejs/Python/Docker/Serverless/AWS
 
 ---
 
