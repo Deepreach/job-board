@@ -48,4 +48,13 @@ Petite équipe, sous la supervision du [CTO](https://www.linkedin.com/in/jfpacci
 
 ## Pour postuler
 
-Sur notre [site Welcome to the Jungle](https://www.welcometothejungle.com/fr/companies/deepreach/jobs/developpeur-back-end-nodejs-serverless-aws-h-f-cdi_paris)
+Sur notre [espace Welcome to the Jungle](https://www.welcometothejungle.com/fr/companies/deepreach/jobs/developpeur-back-end-nodejs-serverless-aws-h-f-cdi_paris)
+
+## Process de recrutement
+
+- entretien téléphonique
+- entretien en nos locaux avec le CTO
+- entretien en nos locaux avec la RH
+- entretien en nos locaux avec le fondateur
+
+Décision rapide

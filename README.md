@@ -52,6 +52,7 @@ La possibilité de participer à des conférences tech.
 - [Dev Backend Senior (H/F)](Dev-Backend-Senior.md) Nodejs/Serverless/AWS/Dynamodb/Postgres
 - [Dev Backend Junior (H/F)](Dev-Backend-Junior.md) Nodejs/Postgres
 - [Dev Fullstack Senior(H/F)](Dev-Fullstack-Senior.md) Vuejs/Nodejs/Serverless/AWS
+- [Dev Front Junior(H/F)](Dev-Front-Junior.md) Vuejs/HTML/CSS
 
 ---
 

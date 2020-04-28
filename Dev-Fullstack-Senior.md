@@ -1,4 +1,4 @@
-# Développeur Fullstack (H/F) Vuejs/Nodejs/Serverless/AWS
+# Développeur Fullstack (H/F) Vuejs/Python/Nodejs/Serverless/AWS
 
 **Où**: Paris 8ème, sur les Champs Elysées / Télétravail
 
@@ -24,7 +24,8 @@ Un secteur qui évolue constamment et à grande vitesse, écoute et adaptation s
 - Expérience solide (5 ans+) du développement d'applications B2B, et notamment
 
   - frameworks SPA (Vuejs) et APIs
-  - bases de données relationnelles et NoSQL
+  - Python et/ou NodeJS en backend
+  - bases de données relationnelles
   - Cloud AWS
 
 - Voir la technologie comme un moyen de résoudre des problèmes et d’être créatif
@@ -33,6 +34,8 @@ Un secteur qui évolue constamment et à grande vitesse, écoute et adaptation s
 ## Technologies
 
 - Javascript
+- Python
+- NodeJs
 - VueJS
 - AWS
   - Serverless (Lambda), SAM
@@ -48,3 +51,14 @@ Petite équipe, sous la supervision du [CTO](https://www.linkedin.com/in/jfpacci
 - Travail à distance possible
 
 ## Pour postuler
+
+Rendez-vous sur notre espace [Welcome to the Jungle](https://www.welcometothejungle.com/fr/companies/deepreach/jobs/developpeur-fullstack-h-f-cdi-vuejs-nodejs-serverless-aws_paris) 📩
+
+## Process de recrutement
+
+- entretien téléphonique
+- entretien en nos locaux avec le CTO
+- entretien en nos locaux avec la RH
+- entretien en nos locaux avec le fondateur
+
+Décision rapide
