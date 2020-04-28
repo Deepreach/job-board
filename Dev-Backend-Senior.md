@@ -53,8 +53,8 @@ Sur notre [espace Welcome to the Jungle](https://www.welcometothejungle.com/fr/c
 ## Process de recrutement
 
 - entretien téléphonique
-- entretien en nos locaux avec le CTO
-- entretien en nos locaux avec la RH
-- entretien en nos locaux avec le fondateur
+- entretien technique avec le CTO
+- entretien avec la RH
+- entretien avec le fondateur
 
 Décision rapide

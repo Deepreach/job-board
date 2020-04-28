@@ -1,4 +1,4 @@
-# Développeur Fullstack (H/F) Vuejs/Python/Nodejs/Serverless/AWS
+# Développeur Fullstack Senior (H/F) Vuejs/Python/Nodejs/Serverless/AWS
 
 **Où**: Paris 8ème, sur les Champs Elysées / Télétravail
 
@@ -57,8 +57,8 @@ Rendez-vous sur notre espace [Welcome to the Jungle](https://www.welcometothejun
 ## Process de recrutement
 
 - entretien téléphonique
-- entretien en nos locaux avec le CTO
-- entretien en nos locaux avec la RH
-- entretien en nos locaux avec le fondateur
+- entretien technique avec le CTO
+- entretien avec la RH
+- entretien avec le fondateur
 
 Décision rapide

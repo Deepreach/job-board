@@ -9,7 +9,8 @@ Au sein de notre pôle de développement parisien, créer et faire évoluer des 
 Les missions comprennent:
 
 - la conception et le codage d'écrans selon une charte UX existante
--
+- l'intégration de nouveaux designs préparés par des graphistes
+- la participation à la conception de l'ergonomie de l'application
 
 ## Principaux défis
 
@@ -48,4 +49,13 @@ Petite équipe, sous la supervision d'un tech lead et en lien constant avec les 
 
 ## Pour postuler
 
-Sur notre [site Welcome to the Jungle](https://www.welcometothejungle.com/companies/deepreach/jobs/developpeur-back-end-junior-nodejs-postgres-h-f-cdi_paris)
+Sur notre [site Welcome to the Jungle](https://www.welcometothejungle.com/companies/deepreach/jobs/developpeur-frontend-junior-h-f-vuejs-html-css_paris)
+
+## Process de recrutement
+
+- entretien téléphonique
+- entretien technique avec le CTO
+- entretien avec la RH
+- entretien avec le fondateur
+
+Décision rapide

@@ -44,3 +44,12 @@ Petite équipe, sous la supervision d'un tech lead et en lien constant avec l'é
 ## Pour postuler
 
 Sur notre [site Welcome to the Jungle](https://www.welcometothejungle.com/companies/deepreach/jobs/developpeur-back-end-junior-nodejs-postgres-h-f-cdi_paris)
+
+## Process de recrutement
+
+- entretien téléphonique
+- entretien technique avec le CTO
+- entretien avec la RH
+- entretien avec le fondateur
+
+Décision rapide
