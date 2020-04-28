@@ -39,7 +39,7 @@ Des bureaux très agréables sur les Champs Elysées (espaces lumineux, espaces 
 
 Un budget alloué pour choisir son équipement librement (mac, pc, pc sous linux, ...)
 
-1 à 2 jours de télétravail chaque semaine.
+Télétravail possible, encore plus en période de covid-19 🦟 !
 
 La possibilité de participer à des conférences tech.
 
@@ -49,8 +49,9 @@ La possibilité de participer à des conférences tech.
 
 ### 🏙 A Paris
 
-- [Dev Backend (H/F)](Dev-Backend.md) Nodejs/Serverless/AWS/Dynamodb/Postgres
-- [Dev Fullstack (H/F)](Dev-Fullstack.md) Vuejs/Nodejs/Serverless/AWS
+- [Dev Backend Senior (H/F)](Dev-Backend-Senior.md) Nodejs/Serverless/AWS/Dynamodb/Postgres
+- [Dev Backend Junior (H/F)](Dev-Backend-Junior.md) Nodejs/Postgres
+- [Dev Fullstack Senior(H/F)](Dev-Fullstack-Senior.md) Vuejs/Nodejs/Serverless/AWS
 
 ---
 
