@@ -1,14 +1,14 @@
 # Job Board Tech DeepReach
 
-Rejoindre DeepReach, c'est participer à ce moment particulier de la vie d'une startup où tout est encore possible, où l'on fait aujourd'hui les choix qui vont structurer l'avenir. C'est aussi le moment où chaque nouvel arrivant dans l'équipe est unique et important pour l'avenir. Si tu recherches un job plan-plan, ce n'est pas ici !
+Rejoindre DeepReach, c'est participer à ce moment particulier de la vie d'une startup où tout est encore possible, où l'on fait aujourd'hui les choix qui vont structurer l'avenir. C'est aussi le moment où chaque nouvel arrivant au sein  de l'équipe produit est unique et important pour l'avenir. Si tu recherches un job plan-plan, ce n'est pas ici !
 
-Nous construisons une équipe tech ressérrée et de haut niveau qui sera le noyau de notre développement. Nous recherchons des personnes ayant le goût du challenge technique, créatives, rigoureuses et à l'écoute des besoins utilisateurs.
+Nous construisons une équipe produit ressérrée et de haut niveau qui sera le noyau de notre développement. Nous recherchons des personnes ayant le goût du challenge technique, créatives, rigoureuses et à l'écoute des besoins utilisateurs.
 
 ---
 
 ## DeepReach
 
-Pour découvrir DeepReach et postuler, rendez-vous sur [notre espace dédié](https://www.welcometothejungle.com/fr/companies/deepreach).
+Pour découvrir DeepReach, rendez-vous sur [notre espace dédié](https://www.welcometothejungle.com/fr/companies/deepreach).
 
 ## Ce à quoi on croit
 
@@ -45,14 +45,15 @@ La possibilité de participer à des conférences tech.
 
 ---
 
+## Pour en savoir plus
+
+Vous pouvez consulter nos vidéos: [L'équipe Produit de DeepReach vue de l'intérieur](https://youtube.com/playlist?list=PLhY-fFeYdFlrZ9TEnhnnEKbifl9wWAgTT)
+
 ## Les jobs tech en cours chez DeepReach.
 
-### 🏙 A Paris
+### 🏙 A Paris / 🏡 En Télétravail
 
-- [Dev Backend Senior (H/F)](Dev-Backend-Senior.md) Nodejs/Serverless/AWS/Dynamodb/Postgres
-- [Dev Backend Junior (H/F)](Dev-Backend-Junior.md) Nodejs/Postgres
 - [Dev Fullstack Senior(H/F)](Dev-Fullstack-Senior.md) Vuejs/Nodejs/Serverless/AWS
-- [Dev Front Junior(H/F)](Dev-Frontend-Junior.md) Vuejs/HTML/CSS
 
 ---
 

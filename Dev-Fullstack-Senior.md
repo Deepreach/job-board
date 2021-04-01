@@ -41,20 +41,16 @@ Un secteur qui évolue constamment et à grande vitesse, écoute et adaptation s
   - Serverless (Lambda), SAM
 - Postgresql
 
-## Equipe
+## Equipe Produit
 
-Nous cherchons à bâtir une équipe avec des compétences variées et surtout nous cherchons à provoquer un bon maillage des expertises et des personnalités avec comme socle de travail en commun : le craftsmanship. Nous avons une très grande sensibilité au niveau de la qualité de code et les bonnes pratiques de développement.
-Equipe, sous la supervision du [CTO](https://www.linkedin.com/in/jfpaccini) et en lien constant avec les équipes operations et sales.
+Nous cherchons à bâtir des équipes avec des compétences variées et surtout nous cherchons à provoquer un bon maillage des expertises et des personnalités avec comme socle de travail en commun : le craftsmanship. Nous avons une très grande sensibilité au niveau de la qualité de code et les bonnes pratiques de développement.
+Les équipes, sous la supervision du [CTO](https://www.linkedin.com/in/jfpaccini) sont en lien constant avec les équipes operations et sales.
 
 ## Les Valeurs
 
 - Pragmatisme
 - Proximité métier
 - Excellence technique qui passe par la qualité
-
-<em>« On s’adapte, constamment. Comme j’ai dit, tout est encore possible, on construira ça ensemble, pas de dogmes. Certains travaillent en sprints inspiration Scrum, d’autres plus au fil de l’eau, mais toujours pros et organisés.
-
-Le facteur clé de succès: la proximité avec le business (sales, operations, …) pour être toujours à l’écoute des besoins, pour créer des solutions qui ont de la valeur pour nos clients »</em>
 
 ## Les principales missions
 
@@ -85,7 +81,7 @@ Vous pouvez consulter nos vidéos: [L'équipe Produit de DeepReach vue de l'int�
 ## Process de recrutement
 
 - entretien téléphonique
-- entretien technique avec le CTO
+- entretien technique
 - entretien avec la RH
 - entretien avec le fondateur
 
