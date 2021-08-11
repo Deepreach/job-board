@@ -39,7 +39,7 @@ Des bureaux très agréables sur les Champs Elysées (espaces lumineux, espaces 
 
 Un budget alloué pour choisir son équipement librement (mac, pc, pc sous linux, ...)
 
-Télétravail possible, encore plus en période de covid-19 🦟 !
+Télétravail possible (même total), encore plus en période de covid-19 🦟 !
 
 La possibilité de participer à des conférences tech.
 
@@ -51,7 +51,7 @@ Vous pouvez consulter nos vidéos: [L'équipe Produit de DeepReach vue de l'int�
 
 ## Les jobs tech en cours chez DeepReach.
 
-### 🏙 A Paris / 🏡 En Télétravail
+### 🏙 A Paris / 🏡 En Télétravail/full remote
 
 - [Dev Fullstack Senior(H/F)](Dev-Fullstack-Senior.md) Vuejs/Nodejs/Serverless/AWS
 
