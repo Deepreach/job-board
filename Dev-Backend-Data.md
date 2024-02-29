@@ -18,7 +18,7 @@ Intégrer différents environnements 'sans couture' pour offrir à nos utilisate
 
 ## Profil
 
-- Expérience solide (5 ans+) du développement d'applications B2B, et notamment
+- Expérience solide (4 ans+) du développement d'applications B2B, et notamment
   - Python en backend
   - bases de données relationnelles
   - Cloud AWS
@@ -28,7 +28,7 @@ Intégrer différents environnements 'sans couture' pour offrir à nos utilisate
 
 ## Technologies et compétences clés
 
-- Python et son écosystème data: pandas, sqlalchemy,..
+- Python et son écosystème data: sqlalchemy,..
 
 - Bases de données, SQL, postgresql, architecture datawarehouse
 
